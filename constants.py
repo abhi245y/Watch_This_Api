@@ -1,10 +1,10 @@
 import multiprocessing
 
 TMDB_base_link = 'https://api.themoviedb.org/3/'
-TMDB_api = '7d8ad71f7e277923665d1197cb77e46b'
+TMDB_api = '<TMDB_api>'
 TMDB_image_link = 'https://image.tmdb.org/t/p/original'
-OMDB_id_search_link = 'http://www.omdbapi.com/?apikey=9a7a1eb3&i='
-OMDB_query_search_link = 'http://www.omdbapi.com/?apikey=9a7a1eb3&s='
+OMDB_id_search_link = 'http://www.omdbapi.com/?apikey=<API_KEY>&i='
+OMDB_query_search_link = 'http://www.omdbapi.com/?apikey=<API_KEY>&s='
 netflix = 8
 prime = 119
 sonyLiv = 237
